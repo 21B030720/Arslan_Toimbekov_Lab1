@@ -1,6 +1,6 @@
-def toLowercase(a):
-    print(a.lower())
+def toLowercase(a):    # Функция по требованию, которая выписывает строку, но только все в нижнем регистре
+    print(a.lower()) 
 
 
-a = input()
-toLowercase(a)
+a = input() # ввод строки
+toLowercase(a) # вызов функции с логикой
